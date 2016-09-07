@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "596830960813",
+    "firebase_url": "https://socialappusingfirebase.firebaseio.com",
+    "project_id": "socialappusingfirebase",
+    "storage_bucket": "socialappusingfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596830960813:android:988d7cf1a2ff4b23",
+        "android_client_info": {
+          "package_name": "com.example.kieum.socialappusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596830960813-ib1i5a0npq1k0cp3dg3tvk73sh2sj8lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-E52Q32dUIyt8xEDFx0rLvxevvCwTMjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
